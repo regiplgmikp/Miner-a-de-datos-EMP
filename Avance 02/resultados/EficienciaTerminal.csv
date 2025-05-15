@@ -1,0 +1,100 @@
+entidad_federativa,nivel_educativo,2015-2016,2020-2021,2021-2022,2022-2023,2023-2024
+estados unidos mexicanos,primaria,98.3,96.7,96.1,97.7,97.1
+estados unidos mexicanos,secundaria,87.7,91.0,91.0,89.0,90.8
+estados unidos mexicanos,media superior,65.6,64.9,68.5,72.9,75.4
+aguascalientes,primaria,99.5,100.2,98.3,99.1,98.7
+aguascalientes,secundaria,83.1,91.1,89.9,85.7,85.2
+aguascalientes,media superior,66.8,65.8,74.1,72.7,74.2
+baja california,primaria,98.1,100.2,99.3,102.2,102.0
+baja california,secundaria,85.3,92.4,94.7,92.4,94.3
+baja california,media superior,59.7,62.0,62.4,67.5,75.9
+baja california sur,primaria,100.9,100.9,100.9,105.0,101.9
+baja california sur,secundaria,85.2,95.7,95.6,94.8,98.4
+baja california sur,media superior,64.0,69.4,64.4,69.1,77.2
+campeche,primaria,97.1,95.0,94.9,98.4,96.6
+campeche,secundaria,77.1,89.4,89.1,84.1,87.1
+campeche,media superior,62.1,63.3,65.0,68.4,73.9
+coahuila de zaragoza,primaria,98.0,98.1,99.2,98.8,99.3
+coahuila de zaragoza,secundaria,85.8,91.7,92.9,89.3,89.6
+coahuila de zaragoza,media superior,61.5,65.6,62.0,71.1,72.4
+colima,primaria,104.7,95.1,92.4,96.3,96.4
+colima,secundaria,98.1,86.8,86.9,85.4,89.0
+colima,media superior,68.7,63.9,64.9,73.1,74.8
+chiapas,primaria,95.2,94.3,97.0,96.7,97.4
+chiapas,secundaria,83.5,87.9,87.3,84.8,85.1
+chiapas,media superior,69.2,69.0,70.7,76.2,75.1
+chihuahua,primaria,97.1,100.1,98.3,99.1,98.6
+chihuahua,secundaria,82.2,91.7,90.0,86.1,86.1
+chihuahua,media superior,60.1,60.5,61.6,67.5,68.7
+ciudad de méxico,primaria,99.0,94.4,90.8,94.4,95.8
+ciudad de méxico,secundaria,104.8,94.1,94.6,90.2,93.9
+ciudad de méxico,media superior,54.6,65.4,64.9,64.2,64.1
+durango,primaria,98.2,96.7,94.5,96.3,95.7
+durango,secundaria,79.7,85.9,86.5,86.7,87.5
+durango,media superior,58.8,58.1,63.2,67.2,70.2
+guanajuato,primaria,98.9,97.4,96.9,96.6,96.4
+guanajuato,secundaria,85.1,89.8,90.5,88.2,90.8
+guanajuato,media superior,59.6,57.9,60.6,69.7,71.1
+guerrero,primaria,97.0,91.9,92.8,95.7,93.6
+guerrero,secundaria,82.9,89.0,90.3,87.6,88.0
+guerrero,media superior,70.4,64.6,65.8,71.7,72.1
+hidalgo,primaria,102.9,101.4,101.0,102.3,100.5
+hidalgo,secundaria,91.8,94.2,93.1,92.3,94.6
+hidalgo,media superior,64.1,63.7,61.5,67.8,70.5
+jalisco,primaria,96.4,96.9,95.9,98.5,97.1
+jalisco,secundaria,84.0,90.9,90.3,87.9,87.2
+jalisco,media superior,77.5,56.2,93.5,88.0,93.2
+méxico,primaria,99.4,96.5,95.1,95.8,95.1
+méxico,secundaria,93.5,93.0,93.1,93.2,94.1
+méxico,media superior,63.5,69.7,71.3,75.2,78.1
+michoacán de ocampo,primaria,94.3,89.2,89.9,92.2,91.7
+michoacán de ocampo,secundaria,73.7,78.5,81.0,80.2,84.9
+michoacán de ocampo,media superior,65.6,61.7,66.3,70.0,74.4
+morelos,primaria,96.5,95.2,94.0,95.1,94.1
+morelos,secundaria,91.0,89.4,89.0,87.2,91.1
+morelos,media superior,60.0,55.3,60.5,67.9,72.1
+nayarit,primaria,100.9,98.7,99.1,99.4,101.3
+nayarit,secundaria,89.7,91.8,91.7,89.8,92.2
+nayarit,media superior,60.6,66.1,67.1,77.5,72.8
+nuevo león,primaria,101.7,103.0,102.1,102.2,100.7
+nuevo león,secundaria,89.2,96.8,94.3,90.7,93.9
+nuevo león,media superior,75.9,68.2,71.0,81.2,81.5
+oaxaca,primaria,91.3,92.7,92.2,95.9,104.8
+oaxaca,secundaria,88.6,87.7,83.2,84.2,95.2
+oaxaca,media superior,69.8,62.8,64.1,72.0,75.0
+puebla,primaria,101.4,98.1,96.9,98.4,97.2
+puebla,secundaria,87.7,90.3,89.9,90.7,92.2
+puebla,media superior,74.5,71.6,69.7,75.6,78.5
+querétaro,primaria,104.5,103.1,101.6,102.0,99.8
+querétaro,secundaria,80.8,92.8,91.7,87.5,86.5
+querétaro,media superior,65.9,63.9,64.1,66.2,72.1
+quintana roo,primaria,103.2,103.1,98.9,100.0,94.5
+quintana roo,secundaria,87.3,95.1,93.3,87.0,83.1
+quintana roo,media superior,70.4,76.2,67.6,76.1,77.5
+san luis potosí,primaria,99.4,98.5,97.8,100.2,97.8
+san luis potosí,secundaria,85.4,89.5,89.8,89.3,92.1
+san luis potosí,media superior,67.7,67.9,67.1,75.3,76.4
+sinaloa,primaria,96.5,97.8,98.6,100.8,99.2
+sinaloa,secundaria,86.7,89.7,92.6,90.4,90.4
+sinaloa,media superior,70.3,63.3,66.9,69.1,75.2
+sonora,primaria,96.4,97.6,97.1,97.0,96.9
+sonora,secundaria,80.9,94.5,94.2,88.8,88.8
+sonora,media superior,66.9,64.3,63.1,71.5,73.3
+tabasco,primaria,97.7,95.7,96.5,98.6,96.5
+tabasco,secundaria,87.3,94.7,94.2,92.2,93.7
+tabasco,media superior,69.0,68.7,77.5,78.4,79.6
+tamaulipas,primaria,93.1,97.0,96.4,98.3,98.1
+tamaulipas,secundaria,84.4,91.6,92.2,90.8,92.0
+tamaulipas,media superior,66.4,66.0,67.6,75.0,81.0
+tlaxcala,primaria,100.8,100.2,98.7,100.4,99.3
+tlaxcala,secundaria,88.9,93.7,93.8,92.3,94.3
+tlaxcala,media superior,65.9,71.1,76.8,74.4,79.1
+veracruz de ignacio de la llave,primaria,99.1,93.9,94.4,97.6,95.7
+veracruz de ignacio de la llave,secundaria,89.5,89.8,90.1,88.6,91.5
+veracruz de ignacio de la llave,media superior,67.9,64.7,68.9,77.2,78.9
+yucatán,primaria,101.9,98.9,98.7,101.2,94.4
+yucatán,secundaria,82.1,93.8,92.4,91.4,90.4
+yucatán,media superior,60.7,68.6,65.6,67.8,72.6
+zacatecas,primaria,98.7,97.5,96.8,96.9,96.0
+zacatecas,secundaria,81.5,87.1,87.4,83.5,84.9
+zacatecas,media superior,66.2,62.0,63.4,66.7,68.9

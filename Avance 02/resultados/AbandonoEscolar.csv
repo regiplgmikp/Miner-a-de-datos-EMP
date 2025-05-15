@@ -1,0 +1,151 @@
+entidad_federativa,nivel_educativo,2015-2016,2020-2021,2021-2022,2022-2023,2023-2024
+Estados Unidos Mexicanos,Primaria,0.7,0.5,0.2,0.1,0.1
+Estados Unidos Mexicanos,Secundaria,4.4,2.9,3.9,3.2,2.9
+Estados Unidos Mexicanos,Media superior,15.5,11.6,10.2,11.2,10.8
+Estados Unidos Mexicanos,Superior,7.0,8.8,8.1,7.2,5.7
+Aguascalientes,Primaria,0.2,0.7,0.4,0.0,0.0
+Aguascalientes,Secundaria,5.9,3.0,4.6,4.7,4.5
+Aguascalientes,Media superior,14.2,13.5,8.3,10.7,10.3
+Aguascalientes,Superior,6.3,4.8,10.3,8.4,8.8
+Baja California,Primaria,-0.2,-0.5,-0.4,-1.4,-0.9
+Baja California,Secundaria,4.6,1.4,2.9,2.7,2.2
+Baja California,Media superior,17.8,15.2,11.2,11.7,10.8
+Baja California,Superior,3.9,5.1,8.7,4.8,5.1
+Baja California Sur,Primaria,-0.3,0.0,-0.5,-1.3,-0.7
+Baja California Sur,Secundaria,4.6,2.0,1.7,0.5,0.1
+Baja California Sur,Media superior,14.0,14.0,13.6,9.3,9.5
+Baja California Sur,Superior,14.8,15.6,16.2,12.2,13.6
+Campeche,Primaria,1.6,1.0,0.3,0.2,0.2
+Campeche,Secundaria,8.2,4.6,5.3,4.5,3.9
+Campeche,Media superior,17.5,12.9,12.3,12.1,10.9
+Campeche,Superior,11.4,12.8,12.0,11.3,12.2
+Coahuila de Zaragoza,Primaria,0.7,0.3,0.1,-0.2,-0.1
+Coahuila de Zaragoza,Secundaria,4.9,2.2,3.7,3.6,3.4
+Coahuila de Zaragoza,Media superior,16.1,13.1,12.8,14.0,13.1
+Coahuila de Zaragoza,Superior,8.6,11.2,9.6,7.9,6.4
+Colima,Primaria,0.9,0.5,1.4,-0.1,-0.2
+Colima,Secundaria,1.0,3.3,7.3,3.8,2.0
+Colima,Media superior,15.4,12.5,12.4,11.6,10.5
+Colima,Superior,10.6,14.6,11.8,10.2,11.0
+Chiapas,Primaria,1.5,0.8,-0.1,0.5,0.5
+Chiapas,Secundaria,5.7,3.9,5.1,5.5,5.3
+Chiapas,Media superior,14.3,10.7,11.7,9.8,10.0
+Chiapas,Superior,3.6,3.6,7.3,5.0,4.3
+Chihuahua,Primaria,0.2,-0.6,0.7,0.3,0.2
+Chihuahua,Secundaria,6.4,1.7,5.9,4.5,3.8
+Chihuahua,Media superior,16.9,16.5,13.4,13.6,13.8
+Chihuahua,Superior,6.6,10.0,10.5,7.4,8.7
+Ciudad de México,Primaria,1.3,-0.2,2.5,0.4,0.2
+Ciudad de México,Secundaria,-1.2,1.7,4.7,1.9,0.7
+Ciudad de México,Media superior,24.4,9.4,14.5,15.1,12.8
+Ciudad de México,Superior,3.7,7.7,3.4,4.0,3.0
+Durango,Primaria,0.9,1.2,0.8,-0.3,-0.1
+Durango,Secundaria,6.8,4.5,4.4,4.6,4.5
+Durango,Media superior,18.2,14.6,13.2,12.7,11.3
+Durango,Superior,5.9,10.5,5.8,5.1,3.4
+Guanajuato,Primaria,0.5,0.6,0.6,0.3,0.3
+Guanajuato,Secundaria,5.3,3.6,4.0,3.1,2.6
+Guanajuato,Media superior,18.9,15.5,12.7,12.2,12.3
+Guanajuato,Superior,1.6,6.8,9.2,8.8,8.2
+Guerrero,Primaria,2.1,0.9,0.9,1.4,1.3
+Guerrero,Secundaria,6.7,3.2,4.1,4.6,4.5
+Guerrero,Media superior,13.1,13.9,13.2,10.8,11.2
+Guerrero,Superior,5.0,14.6,11.7,9.0,5.6
+Hidalgo,Primaria,-0.2,-0.1,-0.3,-0.4,-0.3
+Hidalgo,Secundaria,2.8,2.6,2.2,2.1,1.8
+Hidalgo,Media superior,14.8,14.6,13.5,10.5,10.5
+Hidalgo,Superior,5.1,8.5,9.0,4.3,4.7
+Jalisco,Primaria,0.9,-0.4,1.2,0.5,0.3
+Jalisco,Secundaria,5.8,2.1,4.7,4.6,4.5
+Jalisco,Media superior,15.3,1.0,0.0,12.8,12.9
+Jalisco,Superior,2.3,3.2,-0.2,-1.8,-4.7
+México,Primaria,0.5,1.5,-0.5,0.5,0.5
+México,Secundaria,2.4,2.4,1.8,2.3,2.1
+México,Media superior,14.6,10.3,8.9,9.8,9.2
+México,Superior,9.6,9.4,7.8,8.0,8.1
+Michoacán de Ocampo,Primaria,2.2,2.0,-1.1,1.0,0.9
+Michoacán de Ocampo,Secundaria,9.2,8.1,5.8,6.3,5.9
+Michoacán de Ocampo,Media superior,14.5,16.0,9.1,11.8,11.6
+Michoacán de Ocampo,Superior,10.1,12.8,10.7,12.4,10.0
+Morelos,Primaria,0.7,1.0,0.6,1.0,0.9
+Morelos,Secundaria,2.9,4.5,3.8,3.3,2.8
+Morelos,Media superior,21.5,16.3,11.3,12.6,12.2
+Morelos,Superior,4.1,6.7,6.8,6.6,1.3
+Nayarit,Primaria,0.8,0.2,-0.4,-0.2,-0.1
+Nayarit,Secundaria,3.8,2.8,3.0,3.1,2.7
+Nayarit,Media superior,17.3,15.7,11.5,7.1,10.7
+Nayarit,Superior,5.2,7.5,11.1,8.6,6.2
+Nuevo León,Primaria,-0.4,-0.1,-0.2,-0.3,-0.2
+Nuevo León,Secundaria,3.5,1.0,3.6,2.4,1.6
+Nuevo León,Media superior,12.4,9.7,9.9,8.9,10.5
+Nuevo León,Superior,2.2,0.8,3.0,2.4,-2.7
+Oaxaca,Primaria,1.0,-1.5,-2.5,-6.7,-4.3
+Oaxaca,Secundaria,4.7,6.0,10.7,-4.1,-1.7
+Oaxaca,Media superior,12.7,15.0,12.2,9.2,9.0
+Oaxaca,Superior,12.2,12.2,15.4,11.1,9.8
+Puebla,Primaria,0.4,1.1,-0.6,0.0,0.0
+Puebla,Secundaria,4.5,3.3,2.8,2.8,2.8
+Puebla,Media superior,11.0,8.9,11.3,9.7,8.7
+Puebla,Superior,9.7,7.8,10.6,9.0,8.0
+Querétaro,Primaria,-0.4,-0.1,0.7,-0.6,-0.6
+Querétaro,Secundaria,6.6,2.0,5.1,3.3,2.5
+Querétaro,Media superior,13.7,15.7,12.1,11.3,11.1
+Querétaro,Superior,1.2,5.1,6.0,2.8,0.4
+Quintana Roo,Primaria,-1.6,0.0,-0.1,1.9,1.8
+Quintana Roo,Secundaria,4.2,0.5,3.7,6.3,6.1
+Quintana Roo,Media superior,13.0,9.7,9.4,10.8,10.6
+Quintana Roo,Superior,14.3,18.0,14.1,13.8,13.4
+San Luis Potosí,Primaria,0.6,1.0,-0.2,0.3,0.3
+San Luis Potosí,Secundaria,5.1,4.1,3.3,3.0,2.7
+San Luis Potosí,Media superior,14.1,12.9,10.6,10.7,10.8
+San Luis Potosí,Superior,10.0,11.0,10.4,9.5,3.3
+Sinaloa,Primaria,0.7,-0.1,-0.2,-0.2,-0.1
+Sinaloa,Secundaria,4.7,3.4,3.6,2.8,2.6
+Sinaloa,Media superior,11.8,16.3,8.2,11.3,11.1
+Sinaloa,Superior,8.8,18.0,10.0,13.6,8.7
+Sonora,Primaria,0.6,0.2,0.7,0.2,0.2
+Sonora,Secundaria,6.8,1.1,4.3,3.8,3.2
+Sonora,Media superior,14.0,12.8,11.8,9.6,9.5
+Sonora,Superior,13.2,13.9,14.9,13.3,13.0
+Tabasco,Primaria,1.1,0.9,0.1,0.6,0.5
+Tabasco,Secundaria,4.6,2.0,2.8,2.4,2.0
+Tabasco,Media superior,11.9,10.1,6.1,7.1,6.9
+Tabasco,Superior,11.4,7.9,9.1,8.0,6.9
+Tamaulipas,Primaria,1.0,0.2,0.0,0.1,0.2
+Tamaulipas,Secundaria,5.9,2.2,2.9,3.5,3.3
+Tamaulipas,Media superior,15.5,14.8,8.7,9.5,8.8
+Tamaulipas,Superior,8.8,10.6,7.7,8.7,5.1
+Tlaxcala,Primaria,0.0,0.9,-0.5,-0.1,-0.1
+Tlaxcala,Secundaria,3.9,2.8,1.7,2.3,2.1
+Tlaxcala,Media superior,14.3,10.7,8.3,9.6,9.0
+Tlaxcala,Superior,4.0,9.7,5.7,7.8,6.3
+Veracruz de Ignacio de la Llave,Primaria,1.4,1.4,0.3,0.5,0.5
+Veracruz de Ignacio de la Llave,Secundaria,4.2,4.4,3.1,3.1,3.0
+Veracruz de Ignacio de la Llave,Media superior,12.8,10.7,6.8,11.8,10.7
+Veracruz de Ignacio de la Llave,Superior,12.4,13.4,14.3,11.8,10.8
+Yucatán,Primaria,0.4,-2.0,1.7,2.9,2.8
+Yucatán,Secundaria,6.1,-0.9,5.0,4.7,4.1
+Yucatán,Media superior,14.7,11.3,11.2,12.2,11.0
+Yucatán,Superior,8.3,6.3,10.3,13.6,11.9
+Zacatecas,Primaria,0.7,0.8,0.3,0.6,0.6
+Zacatecas,Secundaria,6.6,4.7,4.8,5.4,5.2
+Zacatecas,Media superior,13.7,14.9,11.0,13.0,12.3
+Zacatecas,Superior,12.0,15.2,12.2,10.9,5.6
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Unidad de medida:,,,,,,
+Porcentaje.,,,,,,
+,,,,,,
+,,,,,,
+Definición:,,,,,,
+"Es el porcentaje de alumnos que abandonan la escuela de un nivel educativo, respecto a la matrícula de inicio de cursos del mismo nivel. Es el porcentaje de alumnos que abandonan las actividades escolares durante el ciclo escolar y al finalizar éste, respecto al total de alumnos inscritos en el ciclo escolar. Cuando el indicador es positivo es probable que la deserción sólo ocurra a un grado de un ciclo determinado; en ocasiones el porcentaje puede resultar negativo, debido a que durante el ciclo escolar en estudio existieron más alumnos que se inscribieron como ''altas'' que los que enunciaron como ''bajas'' escolares. Los datos que se presentan en ceros no son absolutos, sino no significativos.",,,,,,
+,,,,,,
+Notas:,,,,,,
+"El nivel educativo Media superior incluye Profesional técnico y Bachillerato; el Superior incluye licenciatura en Educación Normal, Universitaria y Tecnológica, y excluye Posgrado.",,,,,,
+,,,,,,
+"El 4 de diciembre de 2024 se actualizaron los datos de los ciclos escolares de 2000/2001 a 2022/2023. Esta actualización se deriva de los ajustes realizados por la fuente de información (SEP),con motivo de la actualización de las proyecciones de población a mitad de año del Consejo Nacional de Población (CONAPO), versión de agosto de 2023.",,,,,,
+,,,,,,
+Fuente:,,,,,,
+SEP. Estadística e indicadores. Indicadores y pronósticos. Reporte de indicadores educativos. https://www.planeacion.sep.gob.mx/indicadorespronosticos.aspx (Consulta: 14 de noviembre de 2024).,,,,,,
